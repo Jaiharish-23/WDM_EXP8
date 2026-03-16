@@ -89,6 +89,8 @@ else:
 
 ![image alt](https://github.com/Jaiharish-23/WDM_EXP8/blob/36607becff342f84fa5fe65b6062a61ca053275c/image.png)
 
+![image alt](https://github.com/Jaiharish-23/WDM_EXP8/blob/2be513cbaefea3271b27c9da7a650dc6e9033aea/Screenshot%202026-03-16%20183017.png)
+
 ### Result:
 
 Thus, We had Successfully implemented the Web Scraping on a E-commerce platform using (beautifulsoup) Python.
