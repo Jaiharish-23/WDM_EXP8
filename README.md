@@ -87,7 +87,7 @@ else:
 
 ### Output:
 
-
+![image alt](https://github.com/Jaiharish-23/WDM_EXP8/blob/36607becff342f84fa5fe65b6062a61ca053275c/image.png)
 
 ### Result:
 
